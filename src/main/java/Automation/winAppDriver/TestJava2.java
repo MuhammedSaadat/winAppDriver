@@ -8,4 +8,6 @@ public class TestJava2 {
 	//GM to all
 	
 	//Good evening to all and hello
+	
+	//Good afternoon
 }
