@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="258550" started-at="2020-03-27T13:51:53Z" finished-at="2020-03-27T13:56:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="258550" started-at="2020-03-27T13:51:53Z" finished-at="2020-03-27T13:56:11Z">
+      <class name="Automation.winAppDriver.careSuiteApp">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Automation.winAppDriver.careSuiteApp@3327bd23]" name="setup" is-config="true" duration-ms="20061" started-at="2020-03-27T19:21:53Z" finished-at="2020-03-27T19:22:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="careSuite2()[pri:0, instance:Automation.winAppDriver.careSuiteApp@3327bd23]" name="careSuite2" duration-ms="135384" started-at="2020-03-27T19:22:13Z" finished-at="2020-03-27T19:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- careSuite2 -->
+        <test-method status="PASS" signature="careSuite3()[pri:0, instance:Automation.winAppDriver.careSuiteApp@3327bd23]" name="careSuite3" duration-ms="32928" started-at="2020-03-27T19:24:28Z" finished-at="2020-03-27T19:25:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- careSuite3 -->
+        <test-method status="PASS" signature="careSuite5()[pri:0, instance:Automation.winAppDriver.careSuiteApp@3327bd23]" name="careSuite5" duration-ms="23844" started-at="2020-03-27T19:25:01Z" finished-at="2020-03-27T19:25:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- careSuite5 -->
+        <test-method status="PASS" signature="careSuite6()[pri:0, instance:Automation.winAppDriver.careSuiteApp@3327bd23]" name="careSuite6" duration-ms="15417" started-at="2020-03-27T19:25:25Z" finished-at="2020-03-27T19:25:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- careSuite6 -->
+        <test-method status="PASS" signature="careSuite7()[pri:0, instance:Automation.winAppDriver.careSuiteApp@3327bd23]" name="careSuite7" duration-ms="23212" started-at="2020-03-27T19:25:40Z" finished-at="2020-03-27T19:26:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- careSuite7 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Automation.winAppDriver.careSuiteApp@3327bd23]" name="tearDown" is-config="true" duration-ms="7678" started-at="2020-03-27T19:26:04Z" finished-at="2020-03-27T19:26:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Automation.winAppDriver.careSuiteApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
