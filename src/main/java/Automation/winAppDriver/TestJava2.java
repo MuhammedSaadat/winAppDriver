@@ -5,5 +5,5 @@ public class TestJava2 {
 
 	//Hi
 	
-	//GM
+	//GM to all
 }
