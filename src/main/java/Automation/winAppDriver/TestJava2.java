@@ -20,7 +20,7 @@ public class TestJava2 {
 	
 	//Very yummy  
 	
-	//Very sweety
+	//Very sweety and
 	
 	
 
