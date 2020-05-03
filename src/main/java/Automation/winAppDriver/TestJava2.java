@@ -5,7 +5,7 @@ public class TestJava2 {
 
 	//
 	
-	//GM to all
+	//GM to all and hello
 	
 	//Good evening to all and hello
 	
