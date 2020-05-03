@@ -9,7 +9,7 @@ import java.util.Calendar;
 public class TestJava {
 
 	public static void main(String[] args) {
-		//Test GitHub
+		//Test GitHub and
 		// TODO Auto-generated method stub
 		System.out.println("System date "+addingOrSubtractingDays("","","SystemDate","M/d/yyyy",7));
 		System.out.println("System date "+addingOrSubtractingDays("","","SystemDate","M/d/yyyy",-8));
