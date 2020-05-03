@@ -32,7 +32,7 @@ import io.appium.java_client.windows.WindowsElement;
 
 public class careSuiteApp {
 
-	// Class variables
+	// Class variables 1
 	WindowsDriver<WebElement> driver;
 	WindowsDriver<WebElement> desktopSession;
 
