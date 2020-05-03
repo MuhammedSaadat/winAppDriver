@@ -14,7 +14,7 @@ public class TestJava2 {
 	//Good afternoon to all and hello
 
 	
-	//Had tea?
+	//Had tea? and hello
 	
 	//Had biscuits 'Yes' 'Tasty' 'Yummy'
 	
